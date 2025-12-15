@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "mild days",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-15T09:21:11.271640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "mild days",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/01_mild_days_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "mild days",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/02_mild_days_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "mild days",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/03_mild_days_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mild days",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_mild_days_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "mild days",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_mild_days_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "mild days",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_mild_days_羊文学.txt"
+    }
+  ]
+}
